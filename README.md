@@ -1,4 +1,9 @@
-# Hi, I'm Tommy 👋  
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/tommyutd/tommyutd/refs/heads/main/greeting.svg" style="height:70px"/>
+</h1>
+
+---
+
 *Full-Stack Web Developer | App Developer | Machine Learning Enthusiast*
 
 ---
