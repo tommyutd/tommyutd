@@ -1,11 +1,11 @@
-<svg viewBox="0 0 500 70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg viewBox="0 0 50 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <style>
 @import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&amp;family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&amp;display=swap');
   </style>
   <path id="pathfirst">
     <animate id="animfirst"
       attributeName="d" 
-      values="m0,110 h0; m0,110 h150; m0,110 h150; m0,110 h0" 
+      values="m0,10 h0; m0,10 h150; m0,10 h150; m0,10 h0"
       keyTimes="0; 0.5; 0.8; 1"
       dur="4s"
       begin="0s;animsecond.end"
@@ -14,17 +14,17 @@
   <path id="pathsecond">
     <animate id="animsecond"
       attributeName="d" 
-      values="m0,110 h0; m0,110 h150; m0,110 h150; m0,110 h0"
+      values="m0,10 h0; m0,10 h150; m0,10 h150; m0,10 h0"
       keyTimes="0; 0.5; 0.8; 1"
       dur="4s"
       begin="animfirst.end"
     />
   </path>
   
-  <text>
-    <textPath style="fill: rgb(80, 96, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; white-space: pre;" xlink:href="#pathfirst">Hi There 👋</textPath>
+  <text x='50%' text-anchor='middle'>
+    <textPath style="fill: rgb(80, 96, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; font-size:0.5vw; white-space: pre;" xlink:href="#pathfirst">Hi There 👋</textPath>
   </text>
-  <text>
-    <textPath style="fill: rgb(80, 96, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; white-space: pre;" xlink:href="#pathsecond">I'm Tommy!</textPath>
+  <text x='50%' text-anchor='middle'>
+    <textPath style="fill: rgb(80, 96, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; font-size:0.5vw; white-space: pre;" xlink:href="#pathsecond">I'm Tommy!</textPath>
   </text>
 </svg>
