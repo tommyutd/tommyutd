@@ -27,9 +27,9 @@
   </path>
   
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(80, 96, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; white-space: pre;" xlink:href="#pathfirst">Hi There 👋</textPath>
+    <textPath style="fill: rgb(0, 153, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; white-space: pre;" xlink:href="#pathfirst">Hi There 👋</textPath>
   </text>
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(80, 96, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; white-space: pre;" xlink:href="#pathsecond">I'm Tommy!</textPath>
+    <textPath style="fill: rgb(0, 153, 255); font-family: &quot;Playwrite GB S&quot;; font-weight: 700; white-space: pre;" xlink:href="#pathsecond">I'm Tommy!</textPath>
   </text>
 </svg>
