@@ -4,7 +4,9 @@
 
 ---
 
-*Full-Stack Web Developer | App Developer | Machine Learning Enthusiast*
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/tommyutd/tommyutd/refs/heads/main/professions.svg" style="height:35px"/>
+</h1>
 
 ---
 
