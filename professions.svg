@@ -66,21 +66,21 @@
 
   
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 600; white-space: pre;" xlink:href="#pathfirst">Frontend Developer</textPath>
+    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 500; white-space: pre;" xlink:href="#pathfirst">Frontend Developer</textPath>
   </text>
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 600; white-space: pre;" xlink:href="#pathsecond">Backend Developer</textPath>
+    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 500; white-space: pre;" xlink:href="#pathsecond">Backend Developer</textPath>
   </text>
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 600; white-space: pre;" xlink:href="#paththird">Fullstack Developer</textPath>
+    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 500; white-space: pre;" xlink:href="#paththird">Fullstack Developer</textPath>
   </text>
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 600; white-space: pre;" xlink:href="#pathfourth">Mobile App Developer</textPath>
+    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 500; white-space: pre;" xlink:href="#pathfourth">Mobile App Developer</textPath>
   </text>
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 600; white-space: pre;" xlink:href="#pathfifth">Desktop App Developer</textPath>
+    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 500; white-space: pre;" xlink:href="#pathfifth">Desktop App Developer</textPath>
   </text>
   <text x='50%' text-anchor='middle'>
-    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 600; white-space: pre;" xlink:href="#pathsixth">Machine Learning Expert</textPath>
+    <textPath style="fill: rgb(0, 170, 0); font-family: &quot;Silkscreen&quot;; font-weight: 500; white-space: pre;" xlink:href="#pathsixth">Machine Learning Expert</textPath>
   </text>
 </svg>
